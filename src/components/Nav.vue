@@ -1,7 +1,7 @@
 <template>
 <div class="divMainNav">
     <div class="divLogo">
-        <img class="logo" src="../assets/servinfo-removebg-preview (5).png" alt="">
+        <img class="logo" src="../assets/servinfo-removebg-preview.png" alt="">
 
     </div>
     <div class="div">
