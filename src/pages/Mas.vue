@@ -24,13 +24,12 @@
 </div>
 
 
-
 </template>
 
 <style scoped>
 .contenido{
     margin: auto;
-    background-color: rgb(228, 238, 238);
+    background-color: rgb(77, 129, 129);
     background-repeat: no-repeat;
     background-size: cover;
     padding-left: 5%;
